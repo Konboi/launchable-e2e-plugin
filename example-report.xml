@@ -1,0 +1,8 @@
+<result>
+  <UseCase name="Buy New Item">
+    <Scenario name="Purchase">
+      <TestCase name="success" time="3.6" result="success" />
+      <TestCase name="soldout" time="1.6" result="error" />
+    </Scenario>
+  </UseCase>
+</result>
